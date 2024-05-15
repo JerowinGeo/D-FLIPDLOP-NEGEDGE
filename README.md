@@ -64,4 +64,5 @@ endmodule
 ![329512370-2bcac10e-7bd7-4d7f-8b93-18856ae7a255](https://github.com/04Varsha/D-FLIPDLOP-NEGEDGE/assets/149035374/d9c78dd5-ea5c-4bc3-aa47-555a55fe9153)
 
 **RESULTS**
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
